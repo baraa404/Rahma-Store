@@ -1,6 +1,10 @@
 # 🛒 KitchenShop - E-Commerce App
 
 <div align="center">
+  **English** · **[العربية](README.ar.md)**
+</div>
+
+<div align="center">
   <p>A production-ready, beautifully crafted, Arabic-first E-Commerce application built with Flutter.</p>
   <p>
     <strong>Offline-First • Smart Sync • WhatsApp Checkout • Hyper-Optimized</strong>
